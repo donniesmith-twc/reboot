@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <script type="text/javascript">
+        var csAd = {
+            dir : "",
+            ids : { // various id strings for this ad
+                creative : "49942719017",
+                lineItem : "109555577",
+                loc : "USNV0049$1"
+            },
+            surveyURL: "http://www.weather.com",
+            errors : []
+        };
+
+        function csInit() {
+            try {
+                var bgObj = {
+                    type : "video",
+                    dir : csAd.dir,
+                    bg : {
+                        img : "http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKCT-r-TfhABGAEyCOhCI2z_3nM9",
+                        "background-size" : "cover",
+                        textcolor : "light"
+                    }
+                }
+                csAd.bgObj = bgObj;
+                parent.TWC.ad_background.setBrandingBg(bgObj);
+                
+                if (csAd.surveyURL) {
+                    document.getElementById("109555577").innerHTML = "<img src='" + surveyURL + "' width='0' height='0'>";
+                }        
+                
+            } catch (err) {
+                csAd.errors.push("csInit: " + err.name + " - " + err.message);
+            }
+        }
+        // window.onload = function(){csInit()};
+        csInit();
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,15 @@
+DSX Notes:
+
+Documentation
+http://developer.aws.weather.com/
+
+Single Record, Single Location
+http://dsx.weather.com/wxd/v2/DFRecord/en_US/30068:4:US?api=7bb1c920-7027-4289-9c96-ae5e263980bc
+
+Single Location, Multiple Records - with callback wrapper
+http://dsx.weather.com/wxd/v2/(MORecord;loc;DFRecord)/en_US/(30060:4:US)?api=7bb1c920-7027-4289-9c96-ae5e263980bc&jsonp=csDataSaveReboot
+
+Multiple Records, Multiple Locations
+http://dsx.weather.com/wxd/v2/(loc;DFRecord)/en_US/(30068:4:US;12345:4:US)?api=7bb1c920-7027-4289-9c96-ae5e263980bc
+
+Reboot test url: http://aprd.weather.com/weather/today/l/30339:4:US

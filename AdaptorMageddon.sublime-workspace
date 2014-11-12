@@ -1,0 +1,2063 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"csAd",
+				"csAdDiv"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sF",
+				"sF3"
+			],
+			[
+				"next",
+				"nextDate"
+			],
+			[
+				"ne",
+				"nextDate"
+			],
+			[
+				"ava",
+				"availsShow"
+			],
+			[
+				"Pr",
+				"ProdName"
+			],
+			[
+				"sear",
+				"searchTabNum"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"S",
+				"Status"
+			],
+			[
+				"Len",
+				"Length"
+			],
+			[
+				"col",
+				"colName"
+			],
+			[
+				"rebot",
+				"rebootCheck"
+			],
+			[
+				"csA",
+				"csAd"
+			],
+			[
+				"Prod",
+				"ProductName"
+			],
+			[
+				"Calend",
+				"CalendarStatus"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"stam",
+				"stampOP"
+			],
+			[
+				"st",
+				"stampSF"
+			],
+			[
+				"Capa",
+				"Capacity"
+			],
+			[
+				"Ca",
+				"Capacity"
+			],
+			[
+				"Product",
+				"productName"
+			],
+			[
+				"nu",
+				"numberWithCommas"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"cur",
+				"cur	CSS - cursor: pointer;"
+			],
+			[
+				"las",
+				"lastSearch"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"proc",
+				"processValue"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"dat",
+				"dataRender"
+			],
+			[
+				"Spon",
+				"Sponsorship"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"Cale",
+				"CalendarStatus"
+			],
+			[
+				"inser",
+				"insertRecord"
+			],
+			[
+				"stat",
+				"statusFormat"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"un",
+				"uniqueNames"
+			],
+			[
+				"sponL",
+				"sponLength"
+			],
+			[
+				"Lin",
+				"LineItemName"
+			],
+			[
+				"pr",
+				"primaryEmail"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"grid",
+				"gridData"
+			],
+			[
+				"Ad",
+				"AdvertiserName"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"get",
+				"getObj"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"advS",
+				"advStage"
+			],
+			[
+				"advP",
+				"advProdFilter_1"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"C",
+				"CampaignManager"
+			],
+			[
+				"Acc",
+				"AccountExec"
+			],
+			[
+				"advPr",
+				"advProdFilter_1"
+			],
+			[
+				"Prd",
+				"ProdFilter_1"
+			],
+			[
+				"P",
+				"ProductName"
+			],
+			[
+				"ac",
+				"acSplit"
+			],
+			[
+				"adv",
+				"advSearch"
+			],
+			[
+				"sub",
+				"submission"
+			],
+			[
+				"dial",
+				"dialog-form"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ad",
+				"advSearch"
+			],
+			[
+				"spon",
+				"sponCal"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"cal",
+				"calJumpToDate"
+			],
+			[
+				"gri",
+				"gridStartDate"
+			],
+			[
+				"Pro",
+				"ProductName"
+			],
+			[
+				"eve",
+				"eventCount"
+			],
+			[
+				"adver",
+				"advertiser"
+			],
+			[
+				"add",
+				"addToAutocomplete"
+			],
+			[
+				"advert",
+				"advertisers"
+			],
+			[
+				"init",
+				"initAutoComplete"
+			],
+			[
+				"sp",
+				"sponCal"
+			],
+			[
+				"click",
+				"clickedSpon"
+			],
+			[
+				"event",
+				"eventData"
+			],
+			[
+				"csIni",
+				"csInitData"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"form",
+				"formatSpon"
+			],
+			[
+				"new",
+				"newSrc"
+			],
+			[
+				"chan",
+				"changeEventSrc"
+			],
+			[
+				"js",
+				"jsEvent"
+			],
+			[
+				"chang",
+				"changeMode"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"gr",
+				"gridData"
+			],
+			[
+				"pro",
+				"probability"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"is",
+				"isoStr"
+			],
+			[
+				"temp",
+				"tempEvent"
+			],
+			[
+				"tem",
+				"tempEvent"
+			],
+			[
+				"fu",
+				"fullcalendar"
+			],
+			[
+				"full",
+				"fullcalendar"
+			],
+			[
+				"ins",
+				"inst"
+			],
+			[
+				"view",
+				"viewRender"
+			],
+			[
+				"im",
+				"num_impressions"
+			],
+			[
+				"ca",
+				"campaign_specialist"
+			],
+			[
+				"acc",
+				"account_manager"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"end",
+				"endStr"
+			],
+			[
+				"min",
+				"mineral"
+			],
+			[
+				"star",
+				"startStr"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"da",
+				"datepicker"
+			],
+			[
+				"basic",
+				"basicDay"
+			],
+			[
+				"show",
+				"showEventDetails"
+			],
+			[
+				"product",
+				"product_name"
+			],
+			[
+				"ui",
+				"uiTheme"
+			],
+			[
+				"sty",
+				"styler"
+			],
+			[
+				"di",
+				"dialog"
+			],
+			[
+				"even",
+				"eventInfo"
+			],
+			[
+				"ap",
+				"appendTo"
+			],
+			[
+				"all",
+				"allTestEvents"
+			],
+			[
+				"produ",
+				"productId"
+			],
+			[
+				"ran",
+				"randomeArrayItem"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sea",
+				"search-hidden"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"fire",
+				"firePixel"
+			],
+			[
+				"han",
+				"handleViewableChange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "converted/Chevrolet_45280914737.html",
+			"settings":
+			{
+				"buffer_size": 14503,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "converted/Columbia_Adaptor_300x600_47532709697.html",
+			"settings":
+			{
+				"buffer_size": 10313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "converted/vid_bg_test_110414.html",
+			"settings":
+			{
+				"buffer_size": 1516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "EsteeLauder_48701769977.html",
+			"settings":
+			{
+				"buffer_size": 24839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "converted/TWC103 Jeep Grand Cherokee 300x600.html",
+			"settings":
+			{
+				"buffer_size": 9708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWC103 Jeep Grand Cherokee 300x600_before.html",
+			"settings":
+			{
+				"buffer_size": 7643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.js",
+			"settings":
+			{
+				"buffer_size": 3083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 3529,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"cop",
+				"File: Copy Name"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"filezi",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"file",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"filez",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"stron",
+				"Snippet: <strong>"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"c",
+				"File: Copy Name"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: cs",
+				"Snippet: csAd_mobagg"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fold",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"co",
+				"File: Copy Name"
+			],
+			[
+				"brac",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"bracke",
+				"Bracket Highlighter: Select Tag"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Side Bar"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"un",
+				"Code Folding: Unfold All"
+			],
+			[
+				"filen",
+				"File: Copy Name"
+			],
+			[
+				"pref",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sy",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"sni",
+				"Snippet: if … else"
+			],
+			[
+				"",
+				"Snippet: if … else"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Get Elements"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/converted/Adaptor-Mageddon/Chevrolet_45280914737.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/Chevrolet_45280914737.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/converted/Columbia_Adaptor_300x600_47532709697.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/Columbia_Adaptor_300x600_47532709697.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/DSX Notes.txt",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/TWC103 Jeep Grand Cherokee 300x600.html",
+		"/Applications/MAMP/htdocs/sponCal/includes/functions.php",
+		"/Applications/MAMP/htdocs/sponCal/includes/definitions.php",
+		"/Applications/MAMP/htdocs/sponCal/index.php",
+		"/Applications/MAMP/htdocs/sponCal/authorized.php",
+		"/Applications/MAMP/htdocs/sponCal/propasal_id.json",
+		"/Applications/MAMP/htdocs/sponCal/js/advSearch.js",
+		"/Applications/MAMP/htdocs/sponCal/js/ac.js",
+		"/Applications/MAMP/htdocs/sponCal/sponcal_1024.php",
+		"/Applications/MAMP/htdocs/sponCal/js/advSearch1024.js",
+		"/Applications/MAMP/htdocs/sponCal/js/data1024.js",
+		"/Applications/MAMP/htdocs/sponCal/js/spongrid.js",
+		"/Applications/MAMP/htdocs/sponCal/js/sponlist.js",
+		"/Applications/MAMP/htdocs/sponCal/js/sponcal.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SlickGrid-master/examples/example4-model.html",
+		"/Applications/MAMP/htdocs/dataFeed/4_sf_update_1_table.php",
+		"/Applications/MAMP/htdocs/sponCal/allProducts.php",
+		"/Applications/MAMP/htdocs/sponCal/sponcal_pretabs.php",
+		"/Applications/MAMP/htdocs/sponCal/sponcal_old.php",
+		"/Applications/MAMP/htdocs/sponCal/includes/include.php",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/notes.txt",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/Adaptor-Mageddon/TWC103 Jeep Grand Cherokee 300x600_before.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SlickGrid-master/examples/example-checkbox-row-select.html",
+		"/Applications/MAMP/htdocs/sponCal/utag.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/2013.11.01_Boss Snow Plows Adaptor/boss_adaptor_NE_300x250_102813.html",
+		"/Applications/MAMP/htdocs/sponCal/SponCal_Data_test.php",
+		"/Applications/MAMP/htdocs/sponCal/sponcal.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev3/api/advquery_test.php",
+		"/Applications/MAMP/htdocs/sponCal/definitions.php",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/2014.03.21 poi spon testing/poi1_test_032114.html",
+		"/Users/dksmith/Dropbox (The Weather Channel)/DKS Active Projects/2014.03.21 poi spon testing/poi1_orginal_032114.html",
+		"/Applications/MAMP/htdocs/sponCal/api/queryapi.php",
+		"/Applications/MAMP/htdocs/sponCal/sftp-config.json",
+		"/Applications/MAMP/htdocs/sponCal/js/data.js",
+		"/Applications/MAMP/htdocs/sponCal/todo.txt",
+		"/Applications/MAMP/htdocs/sponCal/css/sponcal.css",
+		"/Applications/MAMP/htdocs/sponCal/minmax.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/sponcal.php",
+		"/Applications/MAMP/htdocs/sponCal/api/includes/definitions.php",
+		"/Applications/MAMP/htdocs/sponCal/api/includes/queryapi_includes.php",
+		"/Applications/MAMP/htdocs/sponCal/api/testclient.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Todo_duex.txt",
+		"/Applications/MAMP/htdocs/sponCal/sp6.php",
+		"/Applications/MAMP/htdocs/sponCal/output3.txt",
+		"/Applications/MAMP/htdocs/sponCal/output_sp6.txt",
+		"/Applications/MAMP/htdocs/sponCal/output2_compare.txt",
+		"/Applications/MAMP/htdocs/sponCal/output2.txt",
+		"/Applications/MAMP/htdocs/sponCal/output.txt",
+		"/Users/dksmith/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/dksmith/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SponCal_Data_092514.sql",
+		"/Applications/MAMP/htdocs/sponCal/sp2.php",
+		"/Applications/MAMP/htdocs/sponCal/api/advquery_test.php",
+		"/Applications/MAMP/htdocs/sponCal/sp.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/vidbg.html",
+		"/Applications/MAMP/htdocs/sponCal/lib/underscore-min.map",
+		"/Applications/MAMP/htdocs/sponCal/test.php",
+		"/Users/dksmith/Desktop/WEEK 2.txt",
+		"/Applications/MAMP/htdocs/sponCal/js/ac2.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev2/js/data.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Todo.txt",
+		"/Applications/MAMP/htdocs/sponCal/!dev/old_rsa.txt",
+		"/Applications/MAMP/htdocs/sponCal/access/authorized.php",
+		"/Applications/MAMP/htdocs/sponCal/access/index.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev3/access/index.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev3/access/includes/functions.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev3/access/includes/pdofactory.class.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/dev3/access/includes/include.php",
+		"/Users/dksmith/Dropbox (The Weather Channel)/xwing/roll20_api.html",
+		"/Applications/MAMP/htdocs/sponCal/lib/jquery.hotkeys.js",
+		"/Applications/MAMP/htdocs/sponCal/slick/slick.grid.css",
+		"/Applications/MAMP/htdocs/sponCal/api/queryapi4.php",
+		"/Applications/MAMP/htdocs/sponCal/slick/slick.grid.js",
+		"/Applications/MAMP/htdocs/sponCal/modal_form.html",
+		"/Users/dksmith/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Applications/MAMP/htdocs/sponCal/sponcal.css",
+		"/Applications/MAMP/htdocs/sponCal/data.js",
+		"/Applications/MAMP/htdocs/sponCal/sponcal.js",
+		"/Applications/MAMP/htdocs/sponCal/spongrid.js",
+		"/Applications/MAMP/htdocs/sponCal/ac.js",
+		"/Applications/MAMP/htdocs/sponCal/test_query.php",
+		"/Applications/MAMP/htdocs/sponCal/init/init.php",
+		"/Applications/MAMP/htdocs/sponCal/nav_test.html",
+		"/Applications/MAMP/htdocs/sponCal/monthViewData2.html",
+		"/Applications/MAMP/htdocs/sponCal/ac2.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SlickGrid-master/examples/example2-formatters.html",
+		"/Applications/MAMP/htdocs/sponCal/monthViewData.html",
+		"/Applications/MAMP/htdocs/sponCal/fullcalendar.css",
+		"/Applications/MAMP/htdocs/sponCal/!dev/filters.html",
+		"/Applications/MAMP/htdocs/dataFeed/4_sf_ad_slot.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/languages.html",
+		"/Applications/MAMP/htdocs/dfpMirror/DB_CustomTargeting_create_keys_on_dev.php",
+		"/Applications/MAMP/htdocs/sponCal/init_sample.js",
+		"/Applications/MAMP/htdocs/sponCal/test_js.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/json.html",
+		"/Applications/MAMP/htdocs/sponCal/mydir.php",
+		"/Applications/MAMP/htdocs/sponCal/fetch_unique.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/php/get-events.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/example/weekly.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/example/site.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/src/clndr.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/example/weekly.html",
+		"/Applications/MAMP/htdocs/dataFeed/pdo.php",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/selectable.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/example/styles/clndr.css",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/default.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/fullcalendar-2.0.1/demos/gcal.html",
+		"/Applications/MAMP/htdocs/sponCal/fullcalendar.js",
+		"/Applications/MAMP/htdocs/sponCal/stack.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/views/singleFlowerView.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/index.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/collections/allFlowers.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/models/singleFlowerModel.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/flowerApp.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/03/snippets.txt",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/views/allFlowersView.js",
+		"/Applications/MAMP/htdocs/sponCal/!dev/Ex_Files_UaR_Backbonejs/Exercise Files/02/snippets.txt",
+		"/Applications/MAMP/htdocs/sponCal/!dev/CLNDR/example/index.html",
+		"/Applications/MAMP/htdocs/sponCal/php/get-events.php",
+		"/Applications/MAMP/htdocs/sponCal/php/utils.php",
+		"/Applications/MAMP/htdocs/sponCal/SponCal.sublime-workspace",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SlickGrid-master/examples/example7-events.html",
+		"/Applications/MAMP/htdocs/sponCal/!dev/SlickGrid-master/examples/examples.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"csSetVars",
+			"// Reboot Edit - start",
+			"dataLocs",
+			"csDataSave",
+			"TWC.pco",
+			"// Reboot Edit - start",
+			"csAd.dataCheck",
+			"%%",
+			"dataCheck",
+			"TESTACCESS",
+			"&zwnj;",
+			"zwnj",
+			"csInit",
+			"saveSponData2",
+			"acInit",
+			"SortByName",
+			"acInit",
+			"avails",
+			"insertPipes",
+			"dialog",
+			"avails",
+			"LineItemName",
+			"sponCal.qObj",
+			"qSring",
+			"dialog-form",
+			"// clicking first column shows details popup",
+			"// Reboot Edit - start",
+			"csAd.reboot",
+			"// Reboot Edit - start",
+			"added 10/22",
+			"csDataSave",
+			"csData",
+			"csSetVars",
+			"csDataSaveReboot",
+			"// added 10/22",
+			"‘",
+			"ProdFilter_2",
+			"ProductName",
+			"LineItemName",
+			"columnpicker",
+			"sponCal.data[i].CalendarStatus",
+			"</strong>",
+			"<strong>",
+			"&",
+			"changeMode",
+			"ProductName",
+			"productName",
+			"endStr",
+			"startStr",
+			"startDate",
+			"endDate",
+			"wx-twc-logo",
+			"advSearchOpen_btn",
+			"Unused Avails",
+			"TestData",
+			"TestDataSP",
+			"captureSearchVals",
+			"0",
+			"border-radius",
+			"advSearchForm",
+			"captureSearchVals",
+			"user_sf_profile",
+			":",
+			"strong",
+			"results",
+			"sponCal.data",
+			"dataInit",
+			"addToAutocomplete",
+			"dataSave",
+			"32",
+			"dialog-form",
+			"loading",
+			"q10",
+			"makeDate",
+			"set_Q",
+			"SEARCH_COLS",
+			"getInput",
+			"filter_input",
+			"paramStr",
+			"check_for_valid_param",
+			"getInput",
+			"ad-tech.weather.com/sponcalendar/dev4",
+			"calSearch",
+			"dump",
+			"advProdFilter_3",
+			"stage",
+			"stmt",
+			"ProductName",
+			"pdo2",
+			"pdo",
+			"dbh",
+			"statussize",
+			"dataGet",
+			"Stage",
+			"search",
+			"customQuery",
+			"saveSponData",
+			"showEventDetails",
+			"eventInfo",
+			"startDateStart",
+			"startDateEnd",
+			"startDateStart",
+			"vars",
+			"data",
+			"tracking",
+			"testing",
+			"timer",
+			"csWriteTracking",
+			"Operative_Spon_Test_Data",
+			"vars",
+			"testing",
+			"timer",
+			"csSetBg",
+			"advSearch",
+			"sponCal.errors.push",
+			"Start",
+			"advFrom",
+			"startDateEnd",
+			"startDateStart",
+			"advTo",
+			"advFrom",
+			"advTo",
+			"advFrom",
+			"advTo",
+			"advFrom",
+			"minDate",
+			"advFrom",
+			"fieldset"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dataSave",
+			"Reboot Edit - start",
+			"endDate",
+			"startDate",
+			"startDateEnd",
+			"startDateStart",
+			"sponInfo",
+			"sponCal",
+			"dataSave",
+			"dataFail",
+			"dataGet",
+			"dataParse",
+			"sponCal.eventSrc",
+			"050614",
+			"   ",
+			"\\n",
+			"",
+			"%%CACHEBUSTER%%",
+			"{_x",
+			"{_alpha",
+			"._x",
+			"._alpha",
+			"%%CACHEBUSTER%%",
+			"ease:Quad.easeOut",
+			"ease:Expo.easeOut",
+			" .25,",
+			"%%CACHEBUSTER%%",
+			"csAd.imgs.companion",
+			"csAd.d.img",
+			"csInitCond",
+			"http://s.imwx.com/v.1.0/ads/creatives/csdev/html5_video",
+			"d.imgClosed",
+			"http://www.weather.com/tv/tvshows/weather-that-changed-the-world/main",
+			"300x250",
+			"%%CACHEBUSTER%%",
+			"DFP%eaid!",
+			"%%CACHEBUSTER%%",
+			"csAd.tracking.pixelClick",
+			"csAd.tracking.defaultClick",
+			"csAd.tracking.dfpClick",
+			"csAd.customData",
+			"\"+dfpRandom+\"",
+			"\"+dfpTPAS+\"",
+			"%%CACHEBUSTER%%",
+			"card",
+			"",
+			"%%CACHEBUSTER%%",
+			"\nhttp://paradisecoast.com/paradiserefined?utm_source=Weather.com%2BCustom%2BAdapter&utm_medium=banner&utm_content=300x250&utm_campaign=Paradise%2BRefined",
+			"https://www.facebook.com/scottslawn/app_262247047235397",
+			"csAdDiv",
+			"http://www.weather.com/apps/android",
+			"csStep1",
+			"csAd.stageBG"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "converted/Chevrolet_45280914737.html",
+					"settings":
+					{
+						"buffer_size": 14503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "converted/Columbia_Adaptor_300x600_47532709697.html",
+					"settings":
+					{
+						"buffer_size": 10313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6370,
+								6392
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3506.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "converted/vid_bg_test_110414.html",
+					"settings":
+					{
+						"buffer_size": 1516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "EsteeLauder_48701769977.html",
+					"settings":
+					{
+						"buffer_size": 24839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8768,
+								8776
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2484.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "converted/TWC103 Jeep Grand Cherokee 300x600.html",
+					"settings":
+					{
+						"buffer_size": 9708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3744,
+								3744
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2100.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "TWC103 Jeep Grand Cherokee 300x600_before.html",
+					"settings":
+					{
+						"buffer_size": 7643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2350,
+								2340
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "notes.js",
+					"settings":
+					{
+						"buffer_size": 3083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3082,
+								3082
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1055.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "notes.txt",
+					"settings":
+					{
+						"buffer_size": 3529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2240,
+								2240
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1221.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 381.0
+	},
+	"output.sftp":
+	{
+		"height": 290.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"MRAID_delayed_creative_061314b.html"
+			],
+			[
+				"inse",
+				"z_testing/db_insert.php"
+			],
+			[
+				"test",
+				"tester4/test_ad.html"
+			],
+			[
+				"demo",
+				"demo.html"
+			],
+			[
+				"tamiflu",
+				"2012.10.12_Tamiflu Adaptor/tamiflu.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/sponCal/!dev/sponcal_DEV.sublime-project"
+			],
+			[
+				"dat",
+				"/Applications/MAMP/htdocs/dataFeed/dataFeed.sublime-project"
+			],
+			[
+				"dfp",
+				"/Applications/MAMP/htdocs/DFP Creative Templates/dfp_templates.sublime-project"
+			],
+			[
+				"da",
+				"/Applications/MAMP/htdocs/dataFeed/dataFeed.sublime-project"
+			],
+			[
+				"sc",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2014.03.21_Scotts MiracleGro HPFV/Scotts_MiracleGro_HPFV_031914.sublime-project"
+			],
+			[
+				"naple",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2014.01.14_Naples Marcos Adaptor/naples_0114.sublime-project"
+			],
+			[
+				"ikea",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.12.16 IKEA Adaptor Round 2/IKEA_1213.sublime-project"
+			],
+			[
+				"ski",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.14_Montana Tourism Adaptor/ski_montana_1213.sublime-project"
+			],
+			[
+				"toy",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.21_Toyota Teen Safety Adaptor/Toyota_Teen_Safety_Adaptor_1213.sublime-project"
+			],
+			[
+				"toyo",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.21_Toyota Teen Safety Adaptor/Toyota_Teen_Safety_Adaptor_1213.sublime-project"
+			],
+			[
+				"fro",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.11.22 Disney Frozen HPFV/Disney_Frozen_1113.sublime-project"
+			],
+			[
+				"gri",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.11.18_WxFilms Grid Breakers HPFV/TWC_GridBreakers_1113.sublime-project"
+			],
+			[
+				"net",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.11.12_Network Relaunch HPFV/TWC_NetworkRelaunch_HPFV.sublime-project"
+			],
+			[
+				"bel",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.11.04_Belize Tourism Adaptor/belize_tourism_1013.sublime-project"
+			],
+			[
+				"bagg",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.15_Baggage Battles HPFV/baggage_battles_1013.sublime-project"
+			],
+			[
+				"ll",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.15_L.L.Bean Adaptor/LL_Bean_1013.sublime-project"
+			],
+			[
+				"king",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.01 Kingsford Adaptor/kingsford_0913.sublime-project"
+			],
+			[
+				"bes",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.14_Best Western Tipping Points Custom Development/best_western_flip_1013.sublime-project"
+			],
+			[
+				"uns",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.16_WxFilms I Am Unstoppable HPFV/unstoppable_1013.sublime-project"
+			],
+			[
+				"yp",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.10.03_YellowPages.com Adaptor/yp_adaptor_0913.sublime-project"
+			],
+			[
+				"pan",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.09.30_Panera Catering Adaptor/panera_catering_1013.sublime-project"
+			],
+			[
+				"pant",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.06.24 Pantene Online Adaptors/pantene.sublime-project"
+			],
+			[
+				"good",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.01.08 Goodyear Adaptor/goodyear_adaptor_update_0613.sublime-project"
+			],
+			[
+				"goo",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.01.08 Goodyear Adaptor/goodyear_adaptor_update_0613.sublime-project"
+			],
+			[
+				"comm",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.06.03 Commuter Ads testing/commuter_ads.sublime-project"
+			],
+			[
+				"farmer",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.05.01_Farmers PPDI Adaptor - EMPOWER/farmers_PPDI.sublime-project"
+			],
+			[
+				"drum",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.05.11_Drumstick Adaptor/drumstick.sublime-project"
+			],
+			[
+				"exx",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.05.01_Exxon Mobil Adaptor/exxon_mobil.sublime-project"
+			],
+			[
+				"jeep",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01 Jeep WeatherVentures Adaptor/jeep_wxventures.sublime-project"
+			],
+			[
+				"jee",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01 Jeep WeatherVentures Adaptor/jeep_wxventures.sublime-project"
+			],
+			[
+				"ele",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01 Starwood Element Hotels Adaptor/element.sublime-project"
+			],
+			[
+				"pane",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01_Panera Pasta Adaptor + Custom Creative/Panera.sublime-project"
+			],
+			[
+				"far",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.05.01_Farmers Property Damage Adaptor - EDUCATE/farmers_educate.sublime-project"
+			],
+			[
+				"tac",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01 Taco Bell Countdown Adaptor/tacobell.sublime-project"
+			],
+			[
+				"tot",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.03.26 Total Cereal Adaptor/total.sublime-project"
+			],
+			[
+				"paner",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.04.01_Panera Pasta Adaptor + Custom Creative/Panera.sublime-project"
+			],
+			[
+				"na",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.01.14_Naples San Marcos Adaptor/naples.sublime-project"
+			],
+			[
+				"nap",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.01.14_Naples San Marcos Adaptor/naples.sublime-project"
+			],
+			[
+				"si",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.03.01_Chevy Silverado Adaptors/silverado.sublime-project"
+			],
+			[
+				"sil",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.03.01_Chevy Silverado Adaptors/silverado.sublime-project"
+			],
+			[
+				"tar",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2013.03.03_Target Lawn & Patio Adaptor/target.sublime-project"
+			],
+			[
+				"flip",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2012.12.18 Flip Ad Dev/flipAd.sublime-project"
+			],
+			[
+				"fli",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2012.12.18 Flip Ad Dev/flipAd.sublime-project"
+			],
+			[
+				"r",
+				"/Users/dksmith/Dropbox/DKS Active Projects/2012.11.01_Royal Caribbean Adaptor/RC.sublime-project"
+			],
+			[
+				"d",
+				"/Users/dksmith/Dropbox/DKS Active Projects/st2_projects/disney.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true
+}
